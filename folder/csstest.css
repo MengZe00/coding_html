@@ -1,0 +1,35 @@
+p{
+    color:blue;
+    background-color: rgba(5, 5, 5, 0.205);
+}
+#title{
+    font‐size:20px;
+    /* font‐weight:bold; font‐style:italic;
+    text‐decoration:underline;
+    text‐transform:uppercase; */
+    color:rgb(219, 31, 31);
+    background-color: orange;
+    background‐position: center center;
+    /* font‐family: Arial , Verdana, sans-serif; */
+    width: 200px;
+    height: 50px;
+    padding: 20px;
+    margin: 10px;
+}
+* {
+    /* border: 1px solid #090a0a; */
+    margin: 10px;
+    }
+
+    li {
+        display:inline;
+        }
+
+    /* #sidebar { 
+        width: 100px;
+        float: left;
+        }  
+    #content {
+        width: 100px;
+        float: right;
+        }       */
